@@ -1,0 +1,404 @@
+.setting-button {
+    background: #e6bc74; }
+  
+  /*====================================
+  =            Section home            =
+  ====================================*/
+  /*----------  Subsection global button  ----------*/
+  .button-theme {
+    background: #e6bc74;
+    border: 1px solid #e6bc74;
+    color: #fff; }
+    .button-theme:hover {
+      background: #671a6b;
+      border: 1px solid #671a6b;
+      color: #fff; }
+  
+  .border-button-theme {
+    color: #e6bc74;
+    border: 2px solid #e6bc74; }
+  
+  /*----------  Subsection top header  ----------*/
+  .top-header {
+    background-color: #e6bc74; }
+  
+  .top-header .wrap-top-information ul li a .box-button:hover {
+    color: #e6bc74; }
+  
+  /*----------  Subsection Navbar  ----------*/
+  nav.navbar.bootsnav ul.nav li.active > a {
+    color: #e6bc74; }
+  
+  nav.navbar li.dropdown ul.dropdown-menu, ul.top-link li .dropdown-menu {
+    border-top-color: #e6bc74 !important; }
+  
+  nav.navbar ul.nav > li > a:hover {
+    color: #e6bc74; }
+  
+  /*----------  Subsection slider dots active  ----------*/
+  .home_slides .carousel.slide .carousel-indicators li.active {
+    background: #e6bc74; }
+  
+  /*----------  Subsection find the property looking for  ----------*/
+  .wrap-catagory .title-head .c-bg-yellow, .wrap-form-property .title-head .c-bg-yellow {
+    background-color: #e6bc74 !important; }
+  
+  .wrap-catagory .title-head .c-bg-after-yellow:after, .wrap-form-property .title-head .c-bg-after-yellow:after {
+    background-color: #e6bc74 !important; }
+  
+  .wrap-catagory .catagory-locations:hover .locations-overlay, .wrap-form-property .catagory-locations:hover .locations-overlay {
+    background-color: rgba(138, 102, 35, 0.822); }
+  
+  /*----------  Subsection form filter home  ----------*/
+  .form-control:focus {
+    border-color: #e6bc74; }
+  
+  /* choosen */
+  .chosen-container .chosen-drop {
+    border-left: 1px solid #e6bc74;
+    border-right: 1px solid #e6bc74;
+    border-bottom: 1px solid #e6bc74; }
+  
+  .chosen-container-active .chosen-single {
+    border: 1px solid #e6bc74; }
+  
+  .chosen-container-active.chosen-with-drop .chosen-single {
+    border: 1px solid #e6bc74; }
+  
+  .chosen-container .chosen-results li.highlighted {
+    background-color: #e6bc74;
+    background-image: linear-gradient(#e6bc74 20%, #e6bc74 90%);
+    color: #fff; }
+  
+  .nstSlider .bar {
+    background: #e6bc74; }
+  
+  .nstSlider .highlightPanel {
+    background: #e6bc74; }
+  
+  /*----------  Subsection features  ----------*/
+  .wrap-features .right-redbox {
+    background-color: #e6bc74; }
+  
+  .wrap-features .right-redbox {
+    background-color: rgba(138, 102, 35, 0.822); }
+  
+  /*----------  Subsection popular property  ----------*/
+  .wrap-popular-property .card .card-image .ribbon {
+    background-color: #e6bc74; }
+  
+  .wrap-listing-item .card .card-content .listingInfo .vcard .title-properti h4:hover, .slider-popular-property .card .card-content .listingInfo .vcard .title-properti h4:hover {
+    color: #e6bc74; }
+  
+  .wrap-listing-item .card .card-image .ribbon, .slider-popular-property .card .card-image .ribbon {
+    background-color: #e6bc74; }
+  
+  .wrap-popular-property .slider-popular-property .owl-nav div {
+    background: #e6bc74; }
+  
+  .wrap-popular-property .slider-popular-property .owl-nav div:hover {
+    border: 2px solid #e6bc74; }
+  
+  .property-block-list .ribbon {
+    background-color: #e6bc74; }
+  
+  .content-block h4:hover {
+    color: #e6bc74; }
+  
+  /*----------  Subsection properties listing  ----------*/
+  .property-listing-block .card .card-image .ribbon {
+    background-color: #e6bc74; }
+  
+  .property-listing-block .card .card-content .listingInfo .vcard .title-properti h4:hover {
+    color: #e6bc74; }
+  
+  .property-listing-list .ribbon {
+    background-color: #e6bc74; }
+  
+  /*----------  Subsection Nav slider property  ----------*/
+  .nav-slider-property .owl-nav div {
+    background: #e6bc74; }
+  
+  .nav-slider-property .owl-nav div:hover {
+    border: 2px solid #e6bc74;
+    color: #e6bc74; }
+  
+  /*----------  Subsection owl dots  ----------*/
+  .wrap-features-bestproperties .owl-dot.active span {
+    background: #e6bc74; }
+  
+  /*----------  Subsection wrap sidebar panel search property ----------*/
+  .property-title span {
+    color: #e6bc74; }
+  
+  .wrap-sidebar-property .panel-default > .panel-heading h4 span {
+    color: #e6bc74; }
+  
+  /*----------  Subsection pagging  ----------*/
+  .pagination a.active {
+    background-color: #e6bc74;
+    color: #fff;
+    border: 1px solid #e6bc74; }
+  
+  /*----------  Subsection property detail  ----------*/
+  section .all .slider-two .item.active {
+    border: solid 3px #e6bc74; }
+  
+  /*----------  Subsection about us  ----------*/
+  .about-us .profile h3:after {
+    background: #e6bc74; }
+  
+  /*----------  Subsection sign-up  ----------*/
+  .wrap-register-bg {
+    background: #e6bc74; }
+  
+  /*----------  Subsection member dashboard  ----------*/
+  .noempaty {
+    color: #e6bc74; }
+  
+  .account-info {
+    border-bottom: 5px solid #e6bc74; }
+  
+  .account-info-type {
+    background: #e6bc74; }
+  
+  .wrap-content-dashboard .panel-footer {
+    background-color: #e6bc74; }
+  
+  .bg-table thead tr th {
+    background-color: #e6bc74; }
+  
+  .wrap-sidebar-dashboard .list-group .list-group-item {
+    background-color: #e6bc74;
+    border: 1px solid #a5890e; }
+  
+  .wrap-sidebar-dashboard .list-group a:hover {
+    background-color: #a5890e; }
+  
+  .inputfile-default:focus + label, .inputfile-default.has-focus + label, .inputfile-default + label:hover {
+    background-color: #e6bc74; }
+  
+  /*----------  Subsection agent profile  ----------*/
+  .wrap-agent-profile-detail .agent-profile .agent-profile-catagory {
+    color: #e6bc74; }
+  
+  .wrap-agent-profile-detail-two .agent-profile .agent-profile-catagory {
+    color: #e6bc74; }
+  
+  /*----------  Subsection Article & Tips  ----------*/
+  article .over-layer, .post .over-layer {
+    background-color: rgba(138, 102, 35, 0.822); }
+  
+  .wrapblog-slide .owl-dot.active span {
+    background: #e6bc74; }
+  
+  /*----------  Subsection FAQ  ----------*/
+  .panel-group .panel .panel-heading .panel-title a:after {
+    background-color: #e6bc74; }
+  
+  /*----------  Subsection sidebar blog  ----------*/
+  .sidebar-blog > .title h3:after {
+    background: #e6bc74; }
+  
+  .sidebar-list-blog .item .item_content .meta_category {
+    background: #e6bc74; }
+  
+  .sidebar-list-blog .item .item_content .meta_category:after {
+    border-color: rgba(136, 183, 213, 0);
+    border-right-color: #e6bc74; }
+  
+  .sidebar-list-blog .item .item_thumb {
+    background-color: #e6bc74; }
+  
+  .sidebar-list-blog .item .item_content h4 a:hover {
+    color: #e6bc74; }
+  
+  .sidebar-blog ul li a:before {
+    color: #e6bc74; }
+  
+  .sidebar-blog ul li a:hover {
+    color: #e6bc74; }
+  
+  .post-footer ul li span {
+    color: #e6bc74; }
+  
+  .tag a {
+    border: 1px solid #e6bc74;
+    color: #e6bc74; }
+  
+  .tag a:hover {
+    background: #e6bc74; }
+  
+  .blog-nav-tags a {
+    background: #e6bc74;
+    border: 1px solid #e6bc74; }
+  
+  .blog-nav-tags a:hover {
+    color: #e6bc74;
+    background: #fff;
+    border: 1px solid #e6bc74; }
+  
+  .back-article > a:hover {
+    background-color: #e6bc74; }
+  
+  .prev-article > h3 {
+    color: #e6bc74; }
+  
+  .next-article > h3 {
+    color: #e6bc74; }
+  
+  .wrap-articleterkait .post-content h4 a:hover {
+    color: #e6bc74; }
+  
+  .wrap-articleterkait .item .item_thumb {
+    background-color: #e6bc74; }
+  
+  .wrap-comment .reply {
+    background: #e6bc74; }
+  
+  /*----------  Subsection blog  ----------*/
+  .post-thumbnail .post-item .post-content-details .post-title h3 a:hover {
+    color: #e6bc74; }
+  
+  .post-thumbnail .post-item .post-image {
+    background-color: rgba(138, 102, 35, 0.822); }
+  
+  .post-thumbnail .post-item .post-content-details .post-info .post-autor a:hover {
+    color: #e6bc74; }
+  
+  .post-thumbnail .post-item .post-content-details .post-info .post-category a:hover {
+    color: #e6bc74; }
+  
+  .post-thumbnail .post-item .post-content-details .post-meta .post-comments a:hover {
+    color: #e6bc74; }
+  
+  .post-thumbnail .post-item .post-content-details .post-meta .post-share a:hover {
+    color: #e6bc74; }
+  
+  /*----------  Subsection Gallery  ----------*/
+  .btn14 .buttons .fa {
+    background: #e6bc74; }
+  
+  .gallery .portfolio-sorting li a:hover, .gallery .portfolio-sorting li a:focus, .gallery .portfolio-sorting li a.active {
+    background-color: #e6bc74; }
+  
+  /*----------  Subsection contact us map  ----------*/
+  .map {
+    background: #e6bc74; }
+  
+  /*----------  Subsection recent property  ----------*/
+  .wrap-recent-property .owl-nav div {
+    background: #e6bc74; }
+    .wrap-recent-property .owl-nav div:hover {
+      color: #e6bc74; }
+  
+  .listing-hidden-content {
+    background-color: #e6bc74; }
+  
+  .listing-badges .featured {
+    background-color: #e6bc74; }
+  
+  /*----------  Subsection agent  ----------*/
+  .wrap-agent-home .agent-profile .agent-profile-catagory {
+    color: #e6bc74; }
+  
+  .wrap-agent-home .text-agent h2:before {
+    background-color: #e6bc74; }
+  
+  /*----------  Subsection article & tips  ----------*/
+  article .post-title a:hover, .post .post-title a:hover {
+    color: #e6bc74; }
+  
+  article .over-layer ul.post-link li a:hover, .post .over-layer ul.post-link li a:hover {
+    color: #e6bc74; }
+  
+  article .read-more:hover, .post .read-more:hover {
+    color: #e6bc74; }
+  
+  article .read-more:after, .post .read-more:after {
+    border: 1px solid #e6bc74; }
+  
+  /*----------  Subsection testimonial  ----------*/
+  .client-dsc h2 {
+    color: #e6bc74; }
+  
+  .testimonial-section .left i, .testimonial-section .right i {
+    background: #e6bc74; }
+  
+  /*----------  Subsection call-to-action  ----------*/
+  .bg-theme {
+    background-color: #e6bc74; }
+  
+  .wrap-count {
+    background: #e6bc74; }
+  
+  .call-to-actions .call-us .booking {
+    color: #e6bc74; }
+  
+  /*=====  End of Section home  ======*/
+  /*============================================
+  =            Section home style 2            =
+  ============================================*/
+  .wrap-search-bar-hero .panel-default .panel-heading {
+    background-color: #e6bc74; }
+  
+  .wrap-features-properties ul.list-features li:before {
+    background: #e6bc74; }
+  
+  .icon-box.color .icon i {
+    background: #e6bc74; }
+  
+  .icon-box.color .icon i:after {
+    box-shadow: 0 0 0 3px #e6bc74; }
+  
+  /*----------  Subsection agent  ----------*/
+  .flat-team.style4:hover .content {
+    background-color: #e6bc74; }
+  
+  .flat-team.style4 .panel-body .profile-team p {
+    color: #e6bc74; }
+  
+  .flat-team.style4 .panel-footer .soscial-media li a:hover {
+    background: #e6bc74; }
+  
+  /*----------  Subsection testimonial two  ----------*/
+  .testimonial-section-two .slider-testimonial-two .testimonial-block-panel .testimonial-panel-heading:before {
+    color: #e6bc74; }
+  
+  /*----------  Subsection owl dots  ----------*/
+  .testimonial-section-two .owl-dot.active span {
+    background: #e6bc74; }
+  
+  /*----------  Subsection client our customers  ----------*/
+  .clients .owl-nav div {
+    background: #e6bc74; }
+  
+  .clients .owl-nav div:hover {
+    border: 2px solid #e6bc74;
+    color: #e6bc74; }
+  
+  .text-white {
+    color: #fff; }
+  
+  .text-theme {
+    color: #e6bc74; }
+  
+  /*=====  End of Section home style 2  ======*/
+  /*============================================
+  =            Section home style 3            =
+  ============================================*/
+  .parallax .content-parallax h2 span {
+    color: #e6bc74; }
+  
+  .parallax .title-head h3 span {
+    color: #e6bc74; }
+  
+  /*=====  End of Section home style 3  ======*/
+  /*============================================
+  =            Section footer            =
+  ============================================*/
+  .footer-one .copyright {
+    color: #e6bc74; }
+  
+  .footer-two a.copyright {
+    color: #e6bc74; }
