@@ -4892,7 +4892,7 @@ article .read-more:hover:after, .post .read-more:hover:after {
 
 .testimonial-section {
     width: 100%;
-    background-image: url(../images/testimoni.jpg);
+    background-image: url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtMjctc2FzaS0wMi1sdXh1cnkuanBn.jpg);
     background-size: cover !important;
     background-repeat: no-repeat;
     background-position: 50% 0;
@@ -6384,15 +6384,17 @@ button, button:active, button:focus, button:hover, .btn, .btn:active, .btn:focus
 ==============================================*/
 
 .sub-banner {
-    background: url(../images/1920x253.jpg);
+    background: url(https://t4.ftcdn.net/jpg/03/10/43/47/360_F_310434741_8pDda55sLs3Yd9M3ByCPLkAxKxIAyKbw.jpg);
     background-size: cover;
-    padding: 80px 0px;
+    background-repeat: no-repeat;
+    background-position-y: 40%;
+    padding: 120px 0px;
 }
 
 .sub-banner .breadcrumb-area {
     max-width: 420px;
     margin: 0px auto;
-    color: #fff;
+    color: black;
     text-align: center;
     font-family: "Open Sans", sans-serif;
 }
@@ -6408,7 +6410,7 @@ button, button:active, button:focus, button:hover, .btn, .btn:active, .btn:focus
     margin: 0px;
     padding: 0px;
     font-size: 14px;
-    color: #fff;
+    color: black;
 }
 
 .breadcrumb-area p {
@@ -6424,7 +6426,7 @@ button, button:active, button:focus, button:hover, .btn, .btn:active, .btn:focus
 }
 
 .breadcrumbs li a {
-    color: #fff;
+    color: black;
 }
 
 .breadcrumbs li a:hover {
